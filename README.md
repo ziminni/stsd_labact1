@@ -214,7 +214,7 @@ This project is for **educational purposes** as part of a laboratory activity.
 
 ## Author
 
-**[Your Name]**
+**Jan Eduard B. Sanchez**
 Junior Developer
 
 ## Acknowledgments
